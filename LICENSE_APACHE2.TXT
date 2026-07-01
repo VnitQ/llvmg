@@ -1,0 +1,97 @@
+CUN License
+
+Version 2.0
+
+Copyright (c) 2026 VidllQ Authority. All rights reserved.
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, MODIFICATION, AND DISTRIBUTION
+
+1. Definitions
+
+For the purposes of this License:
+
+"License" means this CUN License Version 2.0.
+
+"Licensor" means VidllQ Authority or any copyright owner who releases a Work under this License.
+
+"Recipient" means any individual or legal entity receiving the Work under this License.
+
+"Source Code" means the preferred form of the Work for studying, modifying, and maintaining it, including source files, build scripts, documentation, and configuration files.
+
+"Compiled Form" means any executable, library, archive, firmware image, package, or other machine-readable form generated from the Source Code.
+
+"Work" means the software, documentation, artwork, build system, examples, and other original materials distributed under this License.
+
+"Modified Work" means any version of the Work that contains additions, deletions, corrections, improvements, translations, or other original modifications.
+
+"Contribution" means any original work intentionally submitted to the Licensor for inclusion in the Work.
+
+2. Copyright Permission
+
+Subject to this License, every Recipient receives a perpetual, worldwide, non-exclusive, royalty-free copyright license to use, study, compile, execute, reproduce, modify, publish, distribute, and create Modified Works from the Work.
+
+3. Patent Rights
+
+Each Contributor grants a non-exclusive, worldwide, royalty-free patent license covering only patent claims necessarily infringed by that Contributor's own Contribution.
+
+If a Recipient initiates patent litigation alleging that the original Work infringes a patent owned or controlled by that Recipient, any patent rights granted by that Recipient under this License terminate upon commencement of that litigation.
+
+4. Redistribution
+
+Redistribution of the Work or Modified Works is permitted provided that:
+
+This License accompanies every distribution.
+
+Copyright notices applicable to the distributed material are preserved.
+
+Modified files clearly identify that they have been changed.
+
+Existing attribution notices are not removed from the portions of the Work to which they apply.
+
+Third-party software included with the Work continues to be governed by its own license terms.
+
+5. Contributions
+
+Unless otherwise agreed in writing, Contributions intentionally accepted into the Work are distributed under this License.
+
+Contributors retain copyright ownership of their original Contributions unless they expressly assign those rights.
+
+6. Names, Logos, and Trademarks
+
+This License grants no permission to use the names, trademarks, logos, project branding, or service marks owned by VidllQ Authority except for truthful identification of the Work or where written permission has been granted.
+
+7. Third-Party Software
+
+The Work may include software released under separate licenses.
+
+Those licenses continue to apply to the relevant components and are not replaced or modified by this License.
+
+8. Warranty Disclaimer
+
+THE WORK IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+
+9. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR SHALL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE WORK.
+
+10. Support
+
+Nothing in this License obligates the Licensor to provide maintenance, technical support, updates, hosting, online services, compiled releases, or future versions of the Work.
+
+11. Termination
+
+Any rights granted under this License automatically terminate if a Recipient materially violates its conditions and fails to correct that violation within a reasonable period after receiving written notice.
+
+12. Scope
+
+This License applies only to material explicitly released under the CUN License Version 2.0.
+
+Software released under other licenses remains governed by those licenses.
+
+Applying the CUN License
+
+Copyright (c) [Year] VidllQ Authority
+
+Licensed under the CUN License Version 2.0.
+
+A copy of this License shall accompany all distributions of the Work.

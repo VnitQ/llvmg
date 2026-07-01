@@ -1,0 +1,99 @@
+CUN License
+
+Version 1.0
+
+Copyright (c) 2026 VidllQ Authority. All rights reserved.
+
+1. Definitions
+
+"License" means the terms and conditions contained in this document.
+
+"Licensor" means VidllQ Authority or any copyright holder authorized to license the Software.
+
+"Software" means the original source code, documentation, build scripts, configuration files, artwork, and other materials released under this License.
+
+"Source Form" means the preferred form for making modifications, including source code and documentation.
+
+"Binary Form" means compiled, assembled, packaged, or otherwise machine-readable versions of the Software.
+
+"Derivative Work" means a work based upon the Software that contains original modifications or additions.
+
+"Contributor" means any person or organization whose contribution has been accepted into the Software by the Licensor.
+
+2. Copyright Grant
+
+Subject to the terms of this License, the Licensor grants every recipient a perpetual, worldwide, non-exclusive, royalty-free copyright license to use, study, compile, execute, reproduce, modify, merge, publish, distribute, and sublicense the Software in Source Form or Binary Form.
+
+3. Contributions
+
+Unless otherwise agreed in writing, contributions intentionally submitted for inclusion in the Software are licensed under this License.
+
+Each contributor retains copyright to their own original contributions unless those rights have been assigned to the Licensor.
+
+4. Redistribution
+
+Redistribution of the Software, with or without modification, is permitted provided that:
+
+a. This License accompanies every redistribution.
+
+b. Existing copyright notices are preserved.
+
+c. Modified files clearly indicate that changes have been made.
+
+d. Any NOTICE file distributed with the Software is preserved where applicable.
+
+e. Third-party software included within the Software remains subject to its own license terms.
+
+5. Third-Party Components
+
+The Software may contain components distributed under other open-source licenses.
+
+Nothing in this License replaces, modifies, or overrides those licenses.
+
+Each third-party component remains governed by its original copyright notice and license.
+
+6. Project Names and Trademarks
+
+This License does not grant permission to use the names "VidllQ", "UNUXBSD", "CUN", logos, trademarks, service marks, or branding owned by VidllQ Authority except for reasonable identification of compatibility or origin or where written permission has been granted.
+
+7. Patent Grant
+
+Each Contributor grants recipients a perpetual, worldwide, royalty-free patent license covering only those patent claims necessarily infringed by that Contributor's original contribution.
+
+If a recipient files patent litigation alleging that the Software infringes a patent, any patent license granted by that Contributor under this License terminates upon the filing of such litigation.
+
+8. Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+
+9. Limitation of Liability
+
+IN NO EVENT SHALL THE LICENSOR, CONTRIBUTORS, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10. Additional Services
+
+Nothing in this License requires the Licensor to provide updates, support, maintenance, hosting, downloads, or other services.
+
+The Licensor may determine the jurisdictions in which official services or official binary distributions are offered.
+
+11. Preservation of Open Source Rights
+
+Where the Software incorporates components licensed under BSD, MIT, Apache, LLVM, or other open-source licenses, recipients continue to receive the rights granted under those licenses.
+
+This License applies only to the original works owned by VidllQ Authority unless otherwise stated.
+
+12. Entire Agreement
+
+This License constitutes the complete license governing the original works released by VidllQ Authority unless superseded by another written agreement.
+
+Applying the CUN License
+
+Copyright (c) 2026 VidllQ Authority
+
+Licensed under the CUN License Version 1.0.
+
+You may not use this file except in compliance with the terms of the CUN License.
+
+A copy of the License should accompany this Software.
+
+Unless required by applicable law or agreed to in writing, the Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
